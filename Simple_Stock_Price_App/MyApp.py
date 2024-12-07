@@ -57,7 +57,7 @@ st.write("""
 
 st.write("""
 ### - This app is made by **Ghulam Hussain Khuhro**  
-Check out the [GitHub repository](https://github.com/ghulamhussainkhuhro/Streamlit_Apps/tree/main/Simple%20Stock%20Price%20App)  
+Check out the [GitHub repository](https://github.com/ghulamhussainkhuhro/Streamlit_Apps/tree/main/Simple_Stock_Price_App)  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ghulamhussainkhuhro)
 """)
 
